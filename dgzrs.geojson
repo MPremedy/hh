@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "dgzrs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "title": "Hörnum", "latitude": 54.75760662, "Longitude": 8.294300254 }, "geometry": { "type": "Point", "coordinates": [ 8.294300254384623, 54.757606623296191 ] } },
+{ "type": "Feature", "properties": { "title": "List", "latitude": 55.01621464, "Longitude": 8.440117761 }, "geometry": { "type": "Point", "coordinates": [ 8.440117761874284, 55.016214648277284 ] } },
+{ "type": "Feature", "properties": { "title": "Wittdün", "latitude": 54.6318735, "Longitude": 8.380704536 }, "geometry": { "type": "Point", "coordinates": [ 8.380704536324986, 54.631873503363749 ] } },
+{ "type": "Feature", "properties": { "title": "Nordstand", "latitude": 54.49776786, "Longitude": 8.80716847 }, "geometry": { "type": "Point", "coordinates": [ 8.807168470168461, 54.49776786660842 ] } },
+{ "type": "Feature", "properties": { "title": "Eiderdamm", "latitude": 54.26642456, "Longitude": 8.843850587 }, "geometry": { "type": "Point", "coordinates": [ 8.843850587593501, 54.266424562425534 ] } },
+{ "type": "Feature", "properties": { "title": "Helgoland", "latitude": 54.17674185, "Longitude": 7.89405994 }, "geometry": { "type": "Point", "coordinates": [ 7.894059940361446, 54.176741850928934 ] } },
+{ "type": "Feature", "properties": { "title": "Büsum", "latitude": 54.12234907, "Longitude": 8.858156656 }, "geometry": { "type": "Point", "coordinates": [ 8.858156656234051, 54.122349072710108 ] } },
+{ "type": "Feature", "properties": { "title": "Brunsbüttel", "latitude": 53.89540486, "Longitude": 9.146509586000001 }, "geometry": { "type": "Point", "coordinates": [ 9.146509586726145, 53.895404865632621 ] } },
+{ "type": "Feature", "properties": { "title": "Cuxhafen", "latitude": 53.86931834, "Longitude": 8.708629591 }, "geometry": { "type": "Point", "coordinates": [ 8.70862959137067, 53.86931834021366 ] } }
+]
+}
