@@ -1,10 +1,58 @@
-title,latitude,Longitude
-Hörnum,54.7576066200,8.2943002540
-List,55.0162146400,8.4401177610
-Wittdün,54.6318735000,8.3807045360
-Nordstand,54.4977678600,8.8071684700
-Eiderdamm,54.2664245600,8.8438505870
-Helgoland,54.1767418500,7.8940599400
-Büsum,54.1223490700,8.8581566560
-Brunsbüttel,53.8954048600,9.1465095860
-Cuxhafen,53.8693183400,8.7086295910
+id,Name,description,iconCat
+"673",Cuxhaven,Seenotrettungskreuzer ANNELIESE KRAMER<br>Liegeplatz: Fährhafen<br>27472 Cuxhaven<br>,
+"671",Brunsbüttel,Seenotrettungsboot GILLIS GULLBRANSSON<br>Liegeplatz: am Leitwerk vor der Nordschleuse<br>25709 Brunsbüttel,
+"405",Bremerhaven,"Seenotrettungskreuzer HERMANN RUDOLF MEYER<br>Liegeplatz: Alter Vorhafen, Höhe Lotsengebäude<br>27568 Bremerhaven",
+"682",Fedderwardersiel,"Seenotrettungsboot EMIL ZIMMERMANN<br>Liegeplatz: Hafen, Westseite<br>26969 Fedderwardersiel",
+"695",Wilhelmshaven,"Wilhelmshaven<br>Seenotrettungsboot PETER HABIG<br>Liegeplatz: Fluthafen, Helgolandkaje<br>26382 Wilhelmshaven",
+"694",Hooksiel,"Seenotrettungskreuzer BERNHARD GRUBEN<br>Liegeplatz: Außenhafen, Zufahrt über Bäderstraße<br>26434 Hooksiel",
+"425",Juist,"Seenotrettungsboot HANS DITTMER<br>Liegeplatz: Hafen, Nordkaje<br>26571 Juist",
+"713",Norderney,Seenotrettungskreuzer EUGEN<br>Liegeplatz: Hafen<br>26548 Norderney,
+"402",Baltrum,Seenotrettungsboot ELLI HOFFMANN-RÖSER<br>Liegeplatz: Hafen<br>26579 Baltrum,
+"726",Langeoog,Seenotrettungsboot SECRETARIUS<br>Liegeplatz: Hafen<br>26465 Langeoog,
+"717",Neuharlingersiel,"Seenotrettungsboot NEUHARLINGERSIEL<br>Liegeplatz:<br>Fischereihafen, Westseite<br>26427 Neuharlingersiel",
+"698",Wangerooge,"Seenotrettungsboot FRITZ THIEME<br>Liegeplatz: Hafen, Ponton am Fähranleger<br>26486 Wangerooge",
+"691",Deutsche Bucht/Helgoland,Seenotrettungskreuzer HERMANN MARWEDE<br>Liegeplatz: Südhafen/Ostdamm<br>27498 Deutsche Bucht/Helgoland,
+"725",Horumersiel,"Seenotrettungsboot WOLFGANG PAUL LORENZ<br>Liegeplatz: Hafen, Wangersiel, Ponton an der Südseite<br>26434 Horumersiel",
+"670",Büsum,"Seenotrettungskreuzer THEODOR STORM<br>Liegeplatz: Hafen-Westseite/ Badestrand, nahe der Schleuse<br>25761 Büsum",
+"685",Eiderdamm,"Seenotrettungsboot PAUL NEISSE<br>Liegeplatz: Eidersperrwerk, Binnenhafen<br>25764 Eiderdamm",
+"712",Nordstrand,"Seenotrettungskreuzer EISWETTE<br>Liegeplatz: Hafen Strucklahnungshörn, am Fähranleger nach Pellworm<br>25845 Nordstrand",
+"715",Norddeich,Seenotrettungsboot OTTO DIERSCH<br>Liegeplatz: Westhafen<br>26506 Norddeich<br><br>https://www.seenotretter.de/wer-wir-sind/teams-stationen/ansicht/station/norddeich/,
+"680",Amrum,Seenotrettungskreuzer ERNST MEIER-HEDDE<br>Liegeplatz: Seezeichenhafen Wittdün<br>25946 Amrum,
+"696",Hörnrum,"Seenotrettungsboot HORST HEINER KNETEN<br>Liegeplatz: Ponton, Westkaje<br>25980 Hörnum",
+"719",List,"Seenotrettungskreuzer PIDDER LÜNG<br>Liegeplatz: Hafen, Südmole<br>25992 List/Sylt",
+"428",Langballigau,"Seenotrettungsboot WERNER KUNTZE<br>Liegeplatz: Hafensüdseite, Anlegebrücke<br>24977 Langballigau",
+"690",Gelting,"Seenotrettungsboot URSULA DETTMANN<br>Liegeplatz: Sportboothafen Gelting-Mole, zwischen Niesgrau und<br>24395 Gelting",
+"711",Olpenitz,Seenotrettungskreuzer FRITZ KNACK<br>Liegeplatz: Hafenpromenade 8e<br>24376 Kappeln-Olpenitz,
+"718",Maasholm,"Seenotrettungsboot HELLMUT MANTHEY<br>Liegeplatz: Fischereihafen, Schumacherbrücke<br>24404 Maasholm",
+"675",Damp,"Seenotrettungsboot NIMANOA<br>Liegeplatz: Niebymole, Hafensüdseite<br>24351 Damp",
+"687",Eckernförde,Seenotrettungsboot ECKERNFÖRDE<br>Liegeplatz: Stadthafen an der Holzbrücke<br>24340 Eckernförde,
+"704",Schleswig,"SRB 82<br>Liegeplatz: Stadthafen, Am Hafen 5<br>24837 Schleswig",
+"705",Schilksee,"Seenotrettungsboot GERHARD ELSNER<br>Liegeplatz: Olympiahafen, Sporthafen Nord, Steg 1<br>24159 Schilksee",
+"714",Laboe,"Seenotrettungskreuzer BERLIN<br>Liegeplatz: Fischereihafen, Südmole<br>Laboe",
+"720",Lippe/Weißenhaus,"Lippe/Weißenhaus<br>Seenotrettungsboot WOLTERA<br>Liegeplatz: Alter Hafen, Nordseite<br>24321 Lippe/Weißenhaus",
+"678",Heiligenhafen,"Seenotrettungsboot HEILIGENHAFEN<br>Liegeplatz: Kommunalhafen, Nordseite<br>23774 Heiligenhafen",
+"677",Fehmarn/Großenbrode,"Seenotrettungskreuzer BREMEN<br><br>Liegeplatz: Becken des ehemaligen Marinehafens, früherer Fähranleger<br>23775 Fehmarn/Großenbrode",
+"707",Puttgarden,"Seenotrettungsboot ROMY FRANK<br>Liegeplatz: Bootshafen des Fährhafens, Sicherheitsbereich<br>23769 Puttgarden",
+"679",Grömitz,"Seenotrettungskreuzer SK 41<br>Liegeplatz: Yachthafen Grömitz, Steg 6<br>23743 Grömitz",
+"716",Neustadt,"Seenotrettungsboot HENRICH WUPPESAHL<br>Liegeplatz: Stadthafen-Ostseite, Unterer Jungfernstieg, Steg B<br>23730 Neustadt",
+"448",Trainingszentrum der Seenotretter in Neustadt i. H.,"Ausbildungsfahrzeuge: MERVI, WALTER ROSE und JAX<br>Liegeplatz: Marinehafen<br>23730 Neustadt Ausbildungsstation",
+"701",Travemünde,"Seenotrettungsboot ERICH KOSCHUBS<br>Liegeplatz: an der Lotsenstation, Leuchtenfeld/Travepromenade<br>23570 Travemünde",
+"702",Timmendorf/Poel,"Seenotrettungsboot WOLFGANG WIESE<br>Liegeplatz: Insel Poel, Timmendorf-Strand, Lotsenbrücke<br>23999 Timmendorf/Poel",
+"724",Kühlungsborn,"Seenotrettungsboot KONRAD-OTTO<br>Liegeplatz: OT Ost, Bootshafen, Steg A<br>18225 Kühlungsborn",
+"697",Warnemünde,"Seenotrettungskreuzer ARKONA<br>Liegeplatz: Alter Strom, Westseite, Höhe Nr. 120<br>18119 Warnemünde",
+"693",Wustrow,Seenotrettungsboot BARSCH<br>Stationsgebäude: Strandstraße/Ecke An der Seenotstation<br>18347 Wustrow,
+"689",Darßer Ort,Seenotrettungskreuzer NIS RANDERS<br>Liegeplatz: Nothafen Darßer Ort<br>18375 Darßer Ort,
+"710",Prerow/Wieck,Seenotrettungsboot PUG<br>Liegeplatz: Wasserwanderrastplatz Wieck am Darß<br>18375 Prerow/Wieck,
+"692",Zingst,Seenotrettungsboot ZANDER<br>Stationsgebäude: Müggenburger Weg/Ecke Hägerende<br>18374 Zingst,
+"699",Vitte/Hiddensee,"Seenotrettungsboot NAUSIKAA<br>Liegeplatz: Hafen-Nordseite, Achtern Diek<br>18565 Vitte/Hiddensee",
+"672",Breege,Seenotrettungsboot MANFRED HESSDÖRFER<br>Liegeplatz: Wasserwanderrastplatz<br>18556 Breege,
+"681",Glowe,"Seenotrettungsboot KURT HOFFMANN<br>Liegeplatz: Wasserwanderrastplatz am Königshorn, Ponton an der Südmole<br>18551 Glowe",
+"706",Sassnitz,"Seenotrettungskreuzer HARRO KOEBKE<br>Liegeplatz: Stadthafen, Westmole, Zufahrt Straße der Jugend<br>18546 Sassnitz",
+"721",Lauterbach,"Seenotrettungsboot CASPER OTTEN<br>Liegeplatz: Kommunalhafen, Fischerbrücke<br>18581 Lauterbach",
+"703",Stralsund,"Seenotrettungsboot HERTHA JEEP<br>Liegeplatz: Stadthafen, Hafenamt/Lotsenturm<br>18437 Stralsund",
+"684",Greifswalder Oie,Greifswalder Oie<br>Seenotrettungskreuzer BERTHOLD BEITZ<br>Liegeplatz: Nothafen Greifswalder Oie<br>17440 Greifswalder Oie,
+"683",Freest,"Seenotrettungsboot HEINZ ORTH<br>Liegeplatz: Fischereihafen, Nordmole<br>17440 Freest",
+"686",Zinnowitz,Seenotrettungsboot HECHT und OTTO BEHR<br>Stationsgebäude: Dünenstraße/Ecke Neue Strandstraße<br>17454 Zinnowitz,
+"700",Ueckermünde,Seenotrettungsboote EVA AHRENS-THIES und GERHARD TEN DOORNKAAT<br>Liegeplatz: Am Kamigkrug<br>17373 Ueckermünde,
+"676",Borkum,"Seenotrettungskreuzer HAMBURG<br>Liegeplatz: Schutzhafen Borkum, Brücke 2<br>26757 Borkum",
+"445",SEENOTLEITUNG BREMEN,(MRCC)<br><br>Werderstraße 2<br>28199 Bremen,iconHq
